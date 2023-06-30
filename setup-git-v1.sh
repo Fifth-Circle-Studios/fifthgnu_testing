@@ -17,8 +17,8 @@ set -e
 # change into your name and email.
 
 git init
-git config --global user.name "ArcoLinux Teaching"
-git config --global user.email "arcolinux.teaching@gmail.com"
+git config --global user.name "FearcrossingTTV"
+git config --global user.email "jnpryor.professional@yahoo.com"
 sudo git config --system core.editor nano
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=25000'
